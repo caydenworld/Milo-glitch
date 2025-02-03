@@ -1,0 +1,8 @@
+{
+    "1332050833977905284": {
+        "custom_commands": {
+            ";hi": "\"hi {user.mention}!\"",
+            ";crazy": "\"{user.mention} is crazy.\""
+        }
+    }
+}
